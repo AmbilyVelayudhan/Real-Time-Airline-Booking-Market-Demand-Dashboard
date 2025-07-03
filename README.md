@@ -79,8 +79,8 @@ airline_demand_app/
 ⚙️ Setup Instructions
 
 1. Clone the repository
-    git clone https://github.com/yourusername/airline-demand-dashboard.git
-    cd airline-demand-dashboard
+    git clone https://github.com/AmbilyVelayudhan/Real-Time-Airline-Booking-Market-Demand-Dashboard.git
+    cd Real-Time-Airline-Booking-Market-Demand-Dashboard
 
 2. Install dependencies
     pip install -r requirements.txt
