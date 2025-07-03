@@ -69,7 +69,7 @@ A live overview is generated from the latest data including:
 📁 Project Structure
 
 airline_demand_app/
-│
+
 ├── app.py                     
 ├── aviationstack_api.py       
 ├── utils.py                   
